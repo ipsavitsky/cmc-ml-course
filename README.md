@@ -9,3 +9,7 @@
 - [x] Decision trees
 - [x] Gradient boosting
 - [ ] Clusterization
+
+## Deep learning
+
+- [x] Intro to PyTorch

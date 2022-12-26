@@ -137,3 +137,8 @@ catboost_info
 7.Clusterization/cifar10
 7.Clusterization/mnist
 7.Clusterization/cifar10_deep_features.npy
+
+8.Intro-to-PyTorch/cifar-10-python.tar.gz
+8.Intro-to-PyTorch/cifar-10-batches-py
+8.Intro-to-PyTorch/conv_weights.pt
+8.Intro-to-PyTorch/conv_weights_pretrained.pt
