@@ -131,3 +131,5 @@ dmypy.json
 catboost_info
 
 2.KNN/data.pkl
+4.SVM/05-SVM/*
+4.SVM/public_tests/*

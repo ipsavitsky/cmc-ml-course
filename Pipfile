@@ -17,6 +17,7 @@ hyperopt = "*"
 xgboost = "*"
 lightgbm = "*"
 catboost = "*"
+gdown = "*"
 
 [dev-packages]
 
