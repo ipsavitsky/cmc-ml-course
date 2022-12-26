@@ -13,3 +13,6 @@
 ## Deep learning
 
 - [x] Intro to PyTorch
+- [x] Semantic segmentation
+- [x] Named entity recognition
+- [ ] Fitting NNs on audio data

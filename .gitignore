@@ -142,3 +142,5 @@ catboost_info
 8.Intro-to-PyTorch/cifar-10-batches-py
 8.Intro-to-PyTorch/conv_weights.pt
 8.Intro-to-PyTorch/conv_weights_pretrained.pt
+
+9.Semantic-segmentation/SegTask
