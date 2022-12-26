@@ -144,3 +144,15 @@ catboost_info
 8.Intro-to-PyTorch/conv_weights_pretrained.pt
 
 9.Semantic-segmentation/SegTask
+9.Semantic-segmentation/runs
+9.Semantic-segmentation/CEloss_save_1.pth
+9.Semantic-segmentation/CEloss_save_2.pth
+9.Semantic-segmentation/CEloss_save_3.pth
+9.Semantic-segmentation/CEloss_save_4.pth
+9.Semantic-segmentation/CEloss_save_5.pth
+9.Semantic-segmentation/Floss_save_1.pth
+9.Semantic-segmentation/Floss_save_2.pth
+9.Semantic-segmentation/Floss_save_3.pth
+9.Semantic-segmentation/Floss_save_4.pth
+9.Semantic-segmentation/Floss_save_5.pth
+10.Named-entity-recognition/logs
