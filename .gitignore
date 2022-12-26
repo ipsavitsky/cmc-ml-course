@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 catboost_info
+
+2.KNN/data.pkl
