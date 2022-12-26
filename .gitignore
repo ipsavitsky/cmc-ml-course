@@ -133,3 +133,7 @@ catboost_info
 2.KNN/data.pkl
 4.SVM/05-SVM/*
 4.SVM/public_tests/*
+
+7.Clusterization/cifar10
+7.Clusterization/mnist
+7.Clusterization/cifar10_deep_features.npy

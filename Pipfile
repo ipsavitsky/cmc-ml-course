@@ -18,6 +18,15 @@ xgboost = "*"
 lightgbm = "*"
 catboost = "*"
 gdown = "*"
+ipympl = "*"
+torch = "*"
+tqdm = "*"
+ipywidgets = "==7.7.2"
+pillow = "==6.1"
+torchvision = "*"
+tensorflow = "*"
+umap-learn = "*"
+numba = "*"
 
 [dev-packages]
 
